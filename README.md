@@ -1,3 +1,6 @@
 # GraphicDesign
 
-<img src="dog mascot logo.png">
+## Dog Mascot Logo
+!<img src="dog mascot logo.png">
+
+

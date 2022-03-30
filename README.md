@@ -12,8 +12,7 @@
 ## Geometric Flat Design
 <img src="GFD2.gif">
 
-## Geometric Flat Design
-<img src="GeometricFlatDesign.png">
+
 
 
 
